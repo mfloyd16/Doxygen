@@ -1,0 +1,9 @@
+<map id="Employee.h" name="Employee.h">
+<area shape="rect" id="node1" title="Variables and Method ideas for Employee." alt="" coords="171,5,269,32"/>
+<area shape="rect" id="node2" href="$Employee_8cpp.html" title="Method for Employee class." alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Shows the methods of the different kinds of staff." alt="" coords="217,155,300,181"/>
+<area shape="rect" id="node4" href="$Officer_8h.html" title="Variables and Method ideas for Officer." alt="" coords="145,80,221,107"/>
+<area shape="rect" id="node6" href="$Supervisor_8h.html" title="Variables and Method ideas for Supervisor." alt="" coords="297,80,399,107"/>
+<area shape="rect" id="node5" href="$Officer_8cpp.html" title="Methods for Officer class." alt="" coords="103,155,193,181"/>
+<area shape="rect" id="node7" href="$Supervisor_8cpp.html" title="Methods for Supervisor Class." alt="" coords="324,155,441,181"/>
+</map>

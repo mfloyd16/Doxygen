@@ -1,3 +1,13 @@
+/**
+ * @file main.cpp
+ * @author Michael Floyd
+ * @date 2025-04-15
+ * @brief Shows the methods of the different kinds of staff 
+ * 
+ * 
+ */
+
+
 #include <iostream>
 #include "Employee.h"
 #include "Supervisor.h"
@@ -5,6 +15,16 @@
 
 using namespace std;
 
+
+/**
+ * Runs through methods created in each staff file
+ *
+ * @param Employee & e 
+ * @pre 
+ * @return void 
+ * @post 
+ * 
+ */
 void runEmployeeTests(Employee & e);
 
 int main() {
